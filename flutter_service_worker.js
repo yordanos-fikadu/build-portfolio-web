@@ -3,13 +3,15 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "6014ce68b2a71d4d867985a69058acc7",
-"assets/AssetManifest.json": "4a44bf150ade28dbe27a44e6d241ddff",
+const RESOURCES = {"assets/AssetManifest.bin": "dc0d856b6865d20a32874d4a6bb4642e",
+"assets/AssetManifest.json": "0bab733b4bde0fc34be33a4835cda960",
+"assets/assets/chat/chat.jpg": "674a02a66bb1dbb13cd1aa0a7df7549c",
+"assets/assets/chat/login.jpg": "26d3681fee0c9b0e35a64954780c335b",
+"assets/assets/chat/profile.jpg": "819915dacd02d880593f5973fce64289",
 "assets/assets/churchMusic/album.png": "edc1b511633a49756c92f847f963de03",
 "assets/assets/churchMusic/home.png": "e8f69f997ad9ec79497c06a1934e2bf8",
 "assets/assets/churchMusic/lessons.png": "225804aa6d58424ac361f99c2c253ef1",
 "assets/assets/employeManagment/login.png": "1efd7ddb2b7062865529030323e4db6e",
-"assets/assets/hello.png": "f80fb979184954c66e9839dc85bda10e",
 "assets/assets/icons/facebook.svg": "393f9d2d3b5926e7d35c36eadbb406cb",
 "assets/assets/icons/instagram.svg": "c4558728e2339f2f5738b315939befb3",
 "assets/assets/icons/linkedin.svg": "7db96ea50d9226a00ef478d1f45a5f11",
@@ -42,9 +44,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "6014ce68b2a71d4d867985a69058acc7
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "94a2d15432abf2a75ce66f811147787d",
-"/": "94a2d15432abf2a75ce66f811147787d",
-"main.dart.js": "c61f0a73e8ebbac8408a3589ae8caf8d",
+"index.html": "75fd248ba8cd2ed4a79cbfa02444dfd6",
+"/": "75fd248ba8cd2ed4a79cbfa02444dfd6",
+"main.dart.js": "fc324f3461f72bc6e421a3fb30bf8629",
 "manifest.json": "d8fe34f7ae4c072a77b924e01dac8a50",
 "version.json": "9b818ca9511483c901bed1545384376c"};
 // The application shell files that are downloaded before a service worker can
